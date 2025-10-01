@@ -1,13 +1,25 @@
 {
-  "name": "frontend",
+  "name": "conquer-frontend",
   "version": "1.0.0",
   "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.13"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.1.13"
+    "@heroicons/react": "^2.2.0",
+    "@tailwindcss/vite": "^4.1.13",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.9.3",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^4.2.3"
   }
 }

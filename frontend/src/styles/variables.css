@@ -1,0 +1,26 @@
+:root {
+  /* Colors for the brand - Customize these extensively! */
+  --color-primary: #1a202c; /* Dark blue-grey for main elements */
+  --color-secondary: #2d3748; /* Slightly lighter dark blue-grey */
+  --color-accent: #ECC94B; /* A gold/yellow accent color */
+  --color-background-light: #ffffff; /* White background for light sections */
+  --color-background-dark: #1A202C; /* Dark background for dark sections */
+  --color-text-light: #f7fafc; /* Light text for dark backgrounds */
+  --color-text-dark: #2d3748; /* Dark text for light backgrounds */
+  --color-success: #48BB78;
+  --color-error: #F56565;
+  --color-warning: #ED8936;
+
+  /* Font sizes (responsive) */
+  --font-size-base: 1rem;
+  --font-size-sm: 0.875rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+
+  /* Spacing */
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+}
+
